@@ -4,6 +4,8 @@ An ESPHome-based indoor temperature/humidity/barometric-pressure display built o
 
 This device is the *indoor* half of a home weather setup — the *outdoor* half is a Davis Vantage Pro2 received over RF via an RTL-SDR Blog V3 dongle on a separate Ubuntu server, feeding its own weewx instance. That side is a separate project; this README covers only the M5StickC Plus2 display.
 
+This is a Dev Workstation setup.  The esphome tool is running in this project folder.  The key file is `m5-env3.yaml`.  
+
 <img width="1628" height="902" alt="image" src="https://github.com/user-attachments/assets/91e1303c-9e31-4877-a028-52b7677c3e44" />
 
 
